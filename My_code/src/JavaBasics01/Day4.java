@@ -19,6 +19,7 @@ public class Day4 {
 		 }
 		 */
 		int age = 15;
+		int name = 34;
 		
 		if (age>=18)
 			System.out.println("eligible for vote");
